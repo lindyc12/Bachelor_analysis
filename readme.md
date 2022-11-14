@@ -26,7 +26,7 @@ ___
 [[Back to top](#top)]
 
 ### Project Outline:
-
+I am going to be doing an analysis on The Bachelor using bachelos, bachelorettes and their contestants.
 
         
 ### Hypothesis
